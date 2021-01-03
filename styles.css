@@ -26,3 +26,13 @@ body {
     vertical-align: middle;
     font-size: 30px;
 }
+
+.paragraph-styling {
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.to-dos {
+    margin-top: 25px;
+}
