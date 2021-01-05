@@ -3,14 +3,16 @@ body {
     width: 50%;
     margin: 0 auto;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(119, 219, 119);
 }
 
 .container {
     width: 360px;
+    height: 200 px;
 }
 
 #inputField {
-    width: 300px;
+    width: 50%;
     height: 46px;
     border-width: 0;
     border: 1px solid black;
